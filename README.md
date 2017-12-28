@@ -50,4 +50,28 @@
 2. 10.24，省赛结果已出，遗憾省二。重新整理回```.md```文件并commit。
 
 ## 五、参考资料
->考完研后补充。
+>排名不分先后
+1. [python操作Excel读写--使用xlrd - lhj588 - 博客园](http://www.cnblogs.com/lhj588/archive/2012/01/06/2314181.html)
+1. [Python--matplotlib绘图可视化知识点整理 - 潘凌昀的兴趣技术杂货铺 - CSDN博客](http://blog.csdn.net/panda1234lee/article/details/52311593)
+1. [python中NumPy和Pandas工具包中的函数使用笔记（方便自己查找） - baoyan2015的博客 - CSDN博客](http://blog.csdn.net/baoyan2015/article/details/53503073)
+1. [python中的sum函数.sum(axis=1) - yyxayz - 博客园](http://www.cnblogs.com/yyxayz/p/4033736.html)
+1. [python实现根据两点经纬度计算实际距离 - TH_NUM的博客 - CSDN博客](http://blog.csdn.net/TH_NUM/article/details/51841052)
+1. [Python 字典 列表 嵌套 复杂排序大全 - 木木_Ray的专栏 - CSDN博客](http://blog.csdn.net/ray_up/article/details/42084863)
+1. [用Python实现K-近邻算法 - Python - 伯乐在线](http://python.jobbole.com/83794/)
+1. [Python中numpy模块的tile()方法简单说明 - wy的点滴 - CSDN博客](http://blog.csdn.net/wy250229163/article/details/52453201)
+1. [Python数据分析与挖掘实战--读书笔记 - 简书](http://www.jianshu.com/p/597dfcc3b448)
+1. ["RuntimeError: Make sure the Graphviz executables are on your system's path" after installing Graphviz 2.38 | Stackoverflow Help | Query Starter]
+(https://www.questarter.com/q/-quot-runtimeerror-make-sure-the-graphviz-executables-are-on-your-system-39-s-path-quot-after-installing-graphviz-2-38-27_35064304.html)
+1. [Numpy and Scipy Documentation — Numpy and Scipy documentation](https://docs.scipy.org/doc/)
+1. [1.10. Decision Trees — scikit-learn 0.19.0 documentation](http://scikit-learn.org/stable/modules/tree.html#tree-classification)
+1. [sklearn.linear_model.LogisticRegression — scikit-learn 0.19.0 documentation](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression)
+1. [用scikit-learn和pandas学习线性回归 - 刘建平Pinard - 博客园](http://www.cnblogs.com/pinard/p/6016029.html)
+1. [Sklearn-train_test_split随机划分训练集和测试集 - Cherzhoucheer的博客 - CSDN博客]
+(http://blog.csdn.net/cherdw/article/details/54881167)
+1. [使用graphviz画关系图](http://freewind.in/posts/1745-use-graphviz-to-draw-relationship/)
+1. [详细记录python的range()函数用法 - xxd - 博客园](http://www.cnblogs.com/buro79xxd/archive/2011/05/23/2054493.html)
+1. [Python如何克隆或复制列表(list)？ - 共享笔记](https://gxnotes.com/article/8850.html)
+1. [python - Can't catch mocked exception because it doesn't inherit BaseException - Stack Overflow](https://stackoverflow.com/questions/31713054/cant-catch-mocked-exception-because-it-doesnt-inherit-baseexception)
+1. [Python补充05 字符串格式化 (%操作符) - Vamei - 博客园](http://www.cnblogs.com/vamei/archive/2013/03/12/2954938.html)
+1. [MaHua 在线markdown编辑器](http://mahua.jser.me/)
+1. [Python--matplotlib绘图可视化知识点整理 - 止战 - 博客园](http://www.cnblogs.com/zhizhan/p/5615947.html)
