@@ -60,14 +60,12 @@
 1. [用Python实现K-近邻算法 - Python - 伯乐在线](http://python.jobbole.com/83794/)
 1. [Python中numpy模块的tile()方法简单说明 - wy的点滴 - CSDN博客](http://blog.csdn.net/wy250229163/article/details/52453201)
 1. [Python数据分析与挖掘实战--读书笔记 - 简书](http://www.jianshu.com/p/597dfcc3b448)
-1. ["RuntimeError: Make sure the Graphviz executables are on your system's path" after installing Graphviz 2.38 | Stackoverflow Help | Query Starter]
-(https://www.questarter.com/q/-quot-runtimeerror-make-sure-the-graphviz-executables-are-on-your-system-39-s-path-quot-after-installing-graphviz-2-38-27_35064304.html)
+1. ["RuntimeError: Make sure the Graphviz executables are on your system's path" after installing Graphviz 2.38 | Stackoverflow Help | Query Starter](https://www.questarter.com/q/-quot-runtimeerror-make-sure-the-graphviz-executables-are-on-your-system-39-s-path-quot-after-installing-graphviz-2-38-27_35064304.html)
 1. [Numpy and Scipy Documentation — Numpy and Scipy documentation](https://docs.scipy.org/doc/)
 1. [1.10. Decision Trees — scikit-learn 0.19.0 documentation](http://scikit-learn.org/stable/modules/tree.html#tree-classification)
 1. [sklearn.linear_model.LogisticRegression — scikit-learn 0.19.0 documentation](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression)
 1. [用scikit-learn和pandas学习线性回归 - 刘建平Pinard - 博客园](http://www.cnblogs.com/pinard/p/6016029.html)
-1. [Sklearn-train_test_split随机划分训练集和测试集 - Cherzhoucheer的博客 - CSDN博客]
-(http://blog.csdn.net/cherdw/article/details/54881167)
+1. [Sklearn-train_test_split随机划分训练集和测试集 - Cherzhoucheer的博客 - CSDN博客](http://blog.csdn.net/cherdw/article/details/54881167)
 1. [使用graphviz画关系图](http://freewind.in/posts/1745-use-graphviz-to-draw-relationship/)
 1. [详细记录python的range()函数用法 - xxd - 博客园](http://www.cnblogs.com/buro79xxd/archive/2011/05/23/2054493.html)
 1. [Python如何克隆或复制列表(list)？ - 共享笔记](https://gxnotes.com/article/8850.html)
